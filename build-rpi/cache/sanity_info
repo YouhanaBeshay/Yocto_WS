@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/youhana/YOCTO/share/tmp
+SSTATE_DIR /home/youhana/YOCTO/share/sstate-cache
+NATIVELSBSTRING ubuntu-22.04
